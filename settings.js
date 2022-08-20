@@ -46,6 +46,7 @@ global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
+
 global.owner = ['+989339658384']
 global.ownertag = '+989339658384' //your tag number
 global.botname = '☫𝐵𝐴𝐿𝑂𝐶𝐻-𝐸𝐷𝐼𝑇☫' //ur bot name
